@@ -16,7 +16,7 @@
 
 ## 🚀 Projects
 - Sentiment Analysis (Python + ML)  
-- Data Engineering Pipeline (Databricks + Spark)  
+- Calculator App (Java, Kafka, Docker)
 *(more coming soon...)*
 
 ---
